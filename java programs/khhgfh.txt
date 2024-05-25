@@ -1,0 +1,3 @@
+Components can be reused throughout the application, saving time and effort.
+
+Virtual DOM: React's Virtual DOM minimizes unnecessary re-renders, improving 
